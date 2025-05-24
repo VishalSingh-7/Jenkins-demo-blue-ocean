@@ -29,7 +29,6 @@ date'''
     stage('Deploy') {
       steps {
         echo 'Deploying the Service.......'
-        sleep 12
       }
     }
 
